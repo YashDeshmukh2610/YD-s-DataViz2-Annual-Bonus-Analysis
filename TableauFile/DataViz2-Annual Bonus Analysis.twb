@@ -27,7 +27,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='P1-OfficeSupplies' name='textscan.17i9wla02ubg0q16zmsx01voprme'>
-            <connection class='textscan' directory='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/s2' filename='P1-OfficeSupplies.csv' password='' server='' />
+            <connection class='textscan' directory='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/DataViz2/Dataset' filename='P1-OfficeSupplies.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.17i9wla02ubg0q16zmsx01voprme' name='P1-OfficeSupplies.csv' table='[P1-OfficeSupplies#csv]' type='table'>
